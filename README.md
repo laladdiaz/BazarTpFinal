@@ -1,3 +1,3 @@
 # BazarTpFinal
 
-https://www.getpostman.com/collections/5576398fe6ff2757e500
+Postman Import: https://www.getpostman.com/collections/5576398fe6ff2757e500
